@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell renders correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "height": 50,
+        "justifyContent": "center",
+        "width": 50,
+      },
+      Object {
+        "borderTopColor": "black",
+        "borderTopWidth": 1,
+      },
+    ]
+  }
+>
+  <Text>
+    D
+  </Text>
+</View>
+`;

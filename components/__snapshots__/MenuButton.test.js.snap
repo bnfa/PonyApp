@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuButton renders correclty 1`] = `
+<View
+  style={
+    Object {
+      "alignSelf": "center",
+      "margin": 8,
+      "width": "80%",
+      "zIndex": 0,
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#009688",
+        "borderRadius": 10,
+        "elevation": 8,
+        "opacity": 1,
+        "paddingHorizontal": 12,
+        "paddingVertical": 10,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "alignSelf": "center",
+          "color": "#fff",
+          "fontSize": 18,
+          "fontWeight": "bold",
+          "textTransform": "uppercase",
+        }
+      }
+    >
+      Start
+    </Text>
+  </View>
+</View>
+`;

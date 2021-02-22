@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ActionCell renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "backgroundColor": "#eebff2",
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "height": 50,
+          "justifyContent": "center",
+          "width": 50,
+        },
+        Object {
+          "borderTopColor": "black",
+          "borderTopWidth": 1,
+        },
+        Object {
+          "borderLeftColor": "black",
+          "borderLeftWidth": 1,
+        },
+      ]
+    }
+  >
+    <Text>
+      D
+    </Text>
+    <Text>
+      P
+    </Text>
+  </View>
+</View>
+`;
